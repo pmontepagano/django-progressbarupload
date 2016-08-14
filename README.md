@@ -10,7 +10,7 @@ django-progressbarupload is a simple Django application that instantiates an HTM
 
 ###Contributors
 The following users have contributed:
-* [Iago Suárez](https://github.com/iago-suarez)
+* [Iago Suarez](https://github.com/iago-suarez)
 * [Andrew Brookins](https://github.com/abrookins)
 * [Callan Bryant](https://github.com/naggie)
 * [Mathieu Comandon](https://github.com/strycore)
